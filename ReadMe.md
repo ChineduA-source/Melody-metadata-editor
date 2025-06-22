@@ -36,7 +36,7 @@
 
 ## 🚀 How to Use
 
-1. [Download Melody from the Releases Page »](https://github.com/YOUR_USERNAME/melody/releases)
+1. [Download Melody from the Releases Page »](https://github.com/ChineduA-source/melody/releases)
 2. Launch the app
 3. Open a file or folder
 4. Edit metadata fields
@@ -46,7 +46,7 @@
 
 ## 📦 Downloads
 
-Latest versions available on the [Releases Page »](https://github.com/YOUR_USERNAME/melody/releases):
+Latest versions available on the [Releases Page »](https://github.com/ChineduA-source/melody/releases):
 
 | OS      | Format              | Status        |
 |---------|---------------------|---------------|
@@ -58,7 +58,7 @@ Latest versions available on the [Releases Page »](https://github.com/YOUR_USER
 
 ## 📚 Documentation
 
-Visit the [📖 Wiki](https://github.com/YOUR_USERNAME/melody/wiki) for:
+Visit the [📖 Wiki](https://github.com/ChineduA-source/melody/wiki) for:
 
 - Getting Started
 - Editing Tags
