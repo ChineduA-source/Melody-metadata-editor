@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Melody Tag Editor
+Exec=./melody
+Icon=favicon
+Terminal=false
+Categories=AudioVideo;Audio;Utility;
+Comment=Edit music metadata with ease

@@ -1,4 +1,5 @@
 <h1 align="center">🎵 Melody Tag Editor</h1>
+<img src="/screenshoots/favicon.ico">
 
 <p align="center">
   <strong>A modern, cross-platform music tag editor built in Rust</strong>  
