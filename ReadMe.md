@@ -1,9 +1,12 @@
 <h1 align="center">🎵 Melody Tag Editor</h1>
+
 <img src="/screenshoots/favicon.ico">
 
 <p align="center">
   <strong>A modern, cross-platform music tag editor built in Rust</strong>  
 </p>
+
+<img src="/screenshoots/Screenshot From 2025-06-22 14-44-28.png">
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Active-black?style=flat-square" alt="Status"/>
