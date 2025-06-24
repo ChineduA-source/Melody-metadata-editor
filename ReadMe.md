@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Melody Tag Editor</h1>
+<h1 align="center">🎵 Melody - A Tag Editor</h1>
 
 <p align="center">
   <img src="/screenshoots/favicon.ico" alt="Melody favicon" width="48" height="48" />
@@ -63,7 +63,7 @@
 
 ## 📦 Downloads
 
-Latest versions available on the [Releases Page »](https://github.com/ChineduA-source/melody/releases):
+Latest versions available on the [Releases Page »](https://github.com/ChineduA-source/Melody-tag-editor/releases):
 
 | OS                     | Format                                         | Status          |
 |------------------------|------------------------------------------------|-----------------|
