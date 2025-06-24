@@ -75,7 +75,7 @@ Latest versions available on the [Releases Page »](https://github.com/ChineduA-
 
 ## 📚 Documentation
 
-Visit the [📖 Wiki](https://github.com/ChineduA-source/Melody-metadata-editor/wiki) for:
+Visit the [📖 Wiki](https://github.com/ChineduA-source/melody/wiki) for:
 
 - Getting Started  
 - Editing Tags  
