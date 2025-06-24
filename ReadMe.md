@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Melody - A Tag Editor</h1>
+<h1 align="center"> Melody - A Tag Editor</h1>
 
 <p align="center">
   <img src="/screenshoots/favicon.ico" alt="Melody favicon" width="48" height="48" />
